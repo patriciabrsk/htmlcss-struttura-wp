@@ -36,15 +36,17 @@ div {
 
 .central-section{
     background-color: #0086ff;
-    height: 700px;
+    height: 550px;
 }
 
 .internal-header{
     background-color: #abcfe6;
+    height: 70px;
 }
 
 .column{
     float: left;
+    width: 30%;
     padding: 10px;
     width: 200px;
 }
