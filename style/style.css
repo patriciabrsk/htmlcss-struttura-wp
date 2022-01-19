@@ -36,7 +36,7 @@ div {
 
 .central-section{
     background-color: #0086ff;
-    height: 550px;
+    width: 100%;
 }
 
 .internal-header{
@@ -46,9 +46,12 @@ div {
 
 .column{
     float: left;
-    width: 30%;
+    width: 20%;
+    height: 300px;
     padding: 10px;
-    width: 200px;
+    background-color: #abcfe6;
+    margin-left: 20px;
+
 }
 
 footer{
