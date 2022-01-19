@@ -14,6 +14,7 @@
 main{
     margin: 0 auto;
 }
+
 .header{
     width: 100%;
     height: 200px;
@@ -40,6 +41,11 @@ main{
     background-color: #abcfe6;
 }
 
+.column{
+    float: left;
+    padding: 10px;
+    width: 200px;
+}
 
 footer{
     background-color: #8702fe;
